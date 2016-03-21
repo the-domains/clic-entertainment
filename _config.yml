@@ -1,0 +1,28 @@
+name: CLiC Entertainment
+favicon: null
+layout_spectrum: 0.1023780929390341
+typography_spectrum: 0.8151126133743674
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.44799714512191713
+  lightness: 0.35391779337078333
+  saturation: 0.16298239026218653
+  rhythmicContrast: 0.6110216304659843
+purpose: []
